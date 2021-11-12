@@ -1,6 +1,8 @@
 # 文件说明
 train.csv - 训练集
 test.csv - 测试集（并没有房产销售价格（SalePrice））
+Predictions.csv  - 预测出来的数值
+House_price_forecast.ipynb - 代码程序
 
 # 使用的机器学习的算法：
 集成森林、SVM、贝叶斯回归
